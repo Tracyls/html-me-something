@@ -54,14 +54,13 @@ h1 {
 	padding-top: 100px;
 	width: 100%;
   }
-  footer {
+  #footer {
 	text-align: center;
 	padding: 1em;
+	display: inline block;
 }
 
-footer p {
-	display: inline-block;
-}
+
 
 img {
 	margin-left: 300px;
